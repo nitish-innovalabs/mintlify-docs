@@ -17,7 +17,15 @@
             "group": "Getting started",
             "pages": [
               "index",
-              "essentials/key-concept"
+              {
+            "group": "Key concepts",
+            "pages": [
+              "key-concepts/agents",
+              "key-concepts/workflows",
+              "key-concepts/knowledge",
+              "key-concepts/integrations"
+            ]
+          }
             ]
           },
           {
