@@ -17,7 +17,7 @@
             "group": "Getting started",
             "pages": [
               "index",
-              "essentials/workflows/workflow-overview"
+              "essentials/key-concept"
             ]
           },
           {
@@ -92,9 +92,9 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
+      "x": "https://x.com/arahiai",
       "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "linkedin": "https://linkedin.com/company/arahiai"
     }
   }
 }
