@@ -17,8 +17,7 @@
             "group": "Getting started",
             "pages": [
               "index",
-              "Templates",
-              "Key Concepts"
+              "essentials/workflows/workflow-overview"
             ]
           },
           {
@@ -30,33 +29,13 @@
           {
             "group": "Workflows",
             "pages": [
+              "essentials/workflows/workflow-overview"
             ]
           },
           {
             "group": "Knowledge",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "essentials/knowledge/knowledge-overview"
             ]
           }
         ]
@@ -66,7 +45,7 @@
       "anchors": [
         {
           "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "href": "https://docs.arahi.ai",
           "icon": "book-open-cover"
         },
         {
