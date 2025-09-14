@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Arahi AI Documentation",
   "colors": {
-    "primary": "#2E58E2",
+    "primary": "#00C584",
     "light": "#07C983",
-    "dark": "#2E58E2"
+    "dark": "#00C584"
   },
   "favicon": "/favicon.png",
   "navigation": {
@@ -31,7 +31,7 @@
           {
             "group": "Agents",
             "pages": [
-              "/essentials/agents"
+              "/essentials/agents/agents-overview"
             ]
           },
           {
