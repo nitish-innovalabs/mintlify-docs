@@ -16,14 +16,14 @@
           {
             "group": "Getting started",
             "pages": [
-              "index",
+              "/index",
               {
             "group": "Key concepts",
             "pages": [
-              "key-concepts/agents",
-              "key-concepts/workflows",
-              "key-concepts/knowledge",
-              "key-concepts/integrations"
+              "/key-concepts/agents",
+              "/key-concepts/workflows",
+              "/key-concepts/knowledge",
+              "/key-concepts/integrations"
             ]
           }
             ]
@@ -31,19 +31,19 @@
           {
             "group": "Agents",
             "pages": [
-              "essentials/agents"
+              "/essentials/agents"
             ]
           },
           {
             "group": "Workflows",
             "pages": [
-              "essentials/workflows/workflow-overview"
+              "/essentials/workflows/workflow-overview"
             ]
           },
           {
             "group": "Knowledge",
             "pages": [
-              "essentials/knowledge/knowledge-overview"
+              "/essentials/knowledge/knowledge-overview"
             ]
           }
         ]
@@ -58,7 +58,7 @@
         },
         {
           "anchor": "Community",
-          "href": "https://mintlify.com/community",
+          "href": "https://arahi.ai",
           "icon": "slack"
         },
         {
@@ -101,7 +101,6 @@
   "footer": {
     "socials": {
       "x": "https://x.com/arahiai",
-      "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/arahiai"
     }
   }
